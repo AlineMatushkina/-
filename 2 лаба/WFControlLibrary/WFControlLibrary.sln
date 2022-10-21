@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFControlLibrary", "WFControlLibrary\WFControlLibrary.csproj", "{65F014C4-EA41-4399-94A9-B907319FCF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFApp", "WFApp\WFApp.csproj", "{74893C38-E60D-4A93-B2D8-B34F721A1E14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F014C4-EA41-4399-94A9-B907319FCF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F014C4-EA41-4399-94A9-B907319FCF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F014C4-EA41-4399-94A9-B907319FCF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F014C4-EA41-4399-94A9-B907319FCF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74893C38-E60D-4A93-B2D8-B34F721A1E14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74893C38-E60D-4A93-B2D8-B34F721A1E14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74893C38-E60D-4A93-B2D8-B34F721A1E14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74893C38-E60D-4A93-B2D8-B34F721A1E14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F898AB3-E215-4C82-A921-7AFE824F8ED8}
+	EndGlobalSection
+EndGlobal

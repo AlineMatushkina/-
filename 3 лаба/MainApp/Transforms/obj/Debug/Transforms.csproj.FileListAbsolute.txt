@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\MainApp\Transforms\bin\Debug\Transforms.dll
+C:\Users\ASUS\source\repos\MainApp\Transforms\bin\Debug\Transforms.pdb
+C:\Users\ASUS\source\repos\MainApp\Transforms\bin\Debug\PluginInterface.dll
+C:\Users\ASUS\source\repos\MainApp\Transforms\bin\Debug\PluginInterface.pdb
+C:\Users\ASUS\source\repos\MainApp\Transforms\obj\Debug\Transforms.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MainApp\Transforms\obj\Debug\Transforms.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MainApp\Transforms\obj\Debug\Transforms.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MainApp\Transforms\obj\Debug\Transforms.dll
+C:\Users\ASUS\source\repos\MainApp\Transforms\obj\Debug\Transforms.pdb

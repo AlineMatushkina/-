@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\bin\Debug\BlurFilter.dll
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\bin\Debug\BlurFilter.pdb
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\bin\Debug\PluginInterface.dll
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\bin\Debug\PluginInterface.pdb
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\obj\Debug\BlurFilter.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\obj\Debug\BlurFilter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\obj\Debug\BlurFilter.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\obj\Debug\BlurFilter.dll
+C:\Users\ASUS\source\repos\MainApp\BlurFilter\obj\Debug\BlurFilter.pdb

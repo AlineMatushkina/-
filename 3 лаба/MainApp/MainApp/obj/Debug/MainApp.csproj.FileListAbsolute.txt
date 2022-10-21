@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\ASUS\source\repos\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\ASUS\source\repos\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.pdb
+C:\Users\ASUS\source\repos\MainApp\MainApp\bin\Debug\PluginInterface.dll
+C:\Users\ASUS\source\repos\MainApp\MainApp\bin\Debug\PluginInterface.pdb
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.PluginDemoApp.resources
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MainApp\MainApp\obj\Debug\MainApp.InfoForm.resources

@@ -1,0 +1,26 @@
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\bin\Debug\WFApp.exe.config
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\bin\Debug\WFApp.exe
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\bin\Debug\WFApp.pdb
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\obj\Debug\WFApp.csproj.AssemblyReference.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\obj\Debug\WFApp.Form1.resources
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\obj\Debug\WFApp.Properties.Resources.resources
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\obj\Debug\WFApp.csproj.GenerateResource.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\obj\Debug\WFApp.csproj.CoreCompileInputs.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\obj\Debug\WFApp.exe
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\obj\Debug\WFApp.pdb
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\bin\Debug\WFControlLibrary.dll
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\bin\Debug\WFControlLibrary.pdb
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFApp\obj\Debug\WFApp.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\bin\Debug\WFApp.exe.config
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\bin\Debug\WFApp.exe
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\bin\Debug\WFApp.pdb
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\bin\Debug\WFControlLibrary.dll
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\bin\Debug\WFControlLibrary.pdb
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\obj\Debug\WFApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\obj\Debug\WFApp.Form1.resources
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\obj\Debug\WFApp.Properties.Resources.resources
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\obj\Debug\WFApp.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\obj\Debug\WFApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\obj\Debug\WFApp.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\obj\Debug\WFApp.exe
+C:\Users\ASUS\source\repos\WFControlLibrary\WFApp\obj\Debug\WFApp.pdb

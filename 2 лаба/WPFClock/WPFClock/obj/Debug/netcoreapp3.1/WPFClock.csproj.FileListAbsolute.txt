@@ -1,0 +1,46 @@
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.exe
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.deps.json
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.runtimeconfig.json
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.runtimeconfig.dev.json
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.dll
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.pdb
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock_MarkupCompile.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock_MarkupCompile.lref
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.g.resources
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.AssemblyInfoInputs.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.AssemblyInfo.cs
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.csproj.CoreCompileInputs.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.dll
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.pdb
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.genruntimeconfig.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\CustomControls\AnalogClockStyle.baml
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.exe
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.deps.json
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.runtimeconfig.json
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.dll
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\bin\Debug\netcoreapp3.1\WPFClock.pdb
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\Themes\Generic.baml
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock_MarkupCompile.lref
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\CustomControls\AnalogClockStyle.baml
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.g.resources
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.dll
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.pdb
+C:\Users\ASUS\Desktop\Компонентное\Катя\WPFClock\WPFClock\obj\Debug\netcoreapp3.1\WPFClock.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\Points\PointForm\bin\Debug\PointForm.exe.config
+C:\Users\ASUS\source\repos\Points\PointForm\bin\Debug\PointForm.exe
+C:\Users\ASUS\source\repos\Points\PointForm\bin\Debug\PointForm.pdb
+C:\Users\ASUS\source\repos\Points\PointForm\bin\Debug\PointLib.dll
+C:\Users\ASUS\source\repos\Points\PointForm\bin\Debug\PointLib.pdb
+C:\Users\ASUS\source\repos\Points\PointForm\bin\Debug\PointLib.xml
+C:\Users\ASUS\source\repos\Points\PointForm\obj\Debug\PointForm.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Points\PointForm\obj\Debug\PointForm.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Points\PointForm\obj\Debug\PointForm.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Points\PointForm\obj\Debug\PointForm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Points\PointForm\obj\Debug\PointForm.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Points\PointForm\obj\Debug\PointForm.exe
+C:\Users\ASUS\source\repos\Points\PointForm\obj\Debug\PointForm.pdb
+C:\Users\ASUS\source\repos\Points\PointForm\obj\Debug\PointForm.PointForm.resources
+C:\Users\ASUS\source\repos\Points\PointForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Points\PointForm\bin\Debug\Newtonsoft.Json.xml

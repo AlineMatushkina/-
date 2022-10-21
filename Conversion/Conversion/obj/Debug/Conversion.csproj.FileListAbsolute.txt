@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Conversion\Conversion\bin\Debug\Conversion.exe.config
+C:\Users\ASUS\source\repos\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\ASUS\source\repos\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\ASUS\source\repos\Conversion\Conversion\obj\Debug\Conversion.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Conversion\Conversion\obj\Debug\Conversion.TempForm.resources
+C:\Users\ASUS\source\repos\Conversion\Conversion\obj\Debug\Conversion.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Conversion\Conversion\obj\Debug\Conversion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\ASUS\source\repos\Conversion\Conversion\obj\Debug\Conversion.pdb

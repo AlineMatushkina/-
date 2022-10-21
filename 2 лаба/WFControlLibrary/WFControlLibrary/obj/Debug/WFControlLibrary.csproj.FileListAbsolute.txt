@@ -1,0 +1,16 @@
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFControlLibrary\bin\Debug\WFControlLibrary.dll
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFControlLibrary\bin\Debug\WFControlLibrary.pdb
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.CoreCompileInputs.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.dll
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.pdb
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.ColorControl.resources
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.GenerateResource.cache
+D:\Hi, baby do you wanna be mine\Университет\Компонентное программирование\2\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WFControlLibrary\WFControlLibrary\bin\Debug\WFControlLibrary.dll
+C:\Users\ASUS\source\repos\WFControlLibrary\WFControlLibrary\bin\Debug\WFControlLibrary.pdb
+C:\Users\ASUS\source\repos\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.ColorControl.resources
+C:\Users\ASUS\source\repos\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.dll
+C:\Users\ASUS\source\repos\WFControlLibrary\WFControlLibrary\obj\Debug\WFControlLibrary.pdb
